@@ -1,6 +1,13 @@
 {
   "changelog": [
     {
+      "version": "1.1",
+      "date": "30.06.2024 - UTC",
+      "changes": [
+        "Added a display message as a temporary fix for blockers not working"
+      ]
+    },
+    {
       "version": "1.0",
       "date": "-",
       "changes": [
