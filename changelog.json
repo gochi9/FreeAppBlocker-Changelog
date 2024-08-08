@@ -1,6 +1,14 @@
 {
   "changelog": [
     {
+      "version": "1.2",
+      "date": "08.08.2024 - UTC",
+      "changes": [
+        "Fixed a bug where blockers would just stop working after some time (I hope)",
+        "Slight performance improvements"
+      ]
+    },
+    {
       "version": "1.1",
       "date": "30.06.2024 - UTC",
       "changes": [
